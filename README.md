@@ -1,4 +1,4 @@
-# Advanced Excel Analytics for AtliQ Hardware
+# P&L Report - Financial Analytics and Reporting 
 
 ## Overview
 This repository presents a collection of business analytics projects for AtliQ Hardware, developed using advanced functionalities in Microsoft Excel. These projects were completed as part of a data analytics bootcamp and demonstrate how Excel’s Power Query, Pivot Tables, DAX, and Power Pivot can be leveraged to transform raw business data into actionable insights that drive smarter decision-making in finance, sales, pricing, and strategic project management.
